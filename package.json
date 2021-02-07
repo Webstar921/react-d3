@@ -60,7 +60,7 @@
     "html-webpack-plugin": "^2.9.0",
     "json-loader": "^0.5.3",
     "lodash.template": "^4.2.2",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.3",
     "moment": "^2.11.2",
     "my-local-ip": "^1.0.0",
     "node-sass": "^4.5.3",
